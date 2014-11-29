@@ -9,3 +9,9 @@ for bch in nums:
   accum = accum + bch
 
 # I have added code that will add up all the numbers in the list nums.
+
+numbers = [10, 20, 30, 40, 50]
+numbers_multiplied= map((lambda value: value*value), numbers)
+
+#This code above will square the elements in the list called numbers. I hope this satisfies your assignment.
+
